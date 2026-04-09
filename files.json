@@ -1,1 +1,12 @@
-
+[
+  {
+    "title": "AE-000 The Artist",
+    "class": "Origin",
+    "description": "A humanoid entity wearing a purple top hat..."
+  },
+  {
+    "title": "AE-601 The Smile",
+    "class": "Dormant",
+    "description": "A symbol that watches perpetually..."
+  }
+]
