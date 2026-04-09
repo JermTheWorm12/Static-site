@@ -1,1 +1,11 @@
+body {
+  background: black;
+  color: #b300ff;
+  font-family: monospace;
+}
 
+.file {
+  border: 1px solid #b300ff;
+  padding: 10px;
+  margin: 10px;
+}
